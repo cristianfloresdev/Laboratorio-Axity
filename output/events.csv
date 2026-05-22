@@ -1,0 +1,12 @@
+step,eventName,description,affectedEntities,timestamp
+9,HORA_DE_OFERTAS,Hora de ofertas — 30% de descuento activo,AllZones,2026-05-21T22:30:13.122377600
+28,HORA_DE_OFERTAS,Hora de ofertas — 30% de descuento activo,AllZones,2026-05-21T22:30:13.479925900
+38,TORMENTA_TORRENCIAL,Tormenta obliga evacuación,All tourists,2026-05-21T22:30:13.631986600
+45,HORA_DE_OFERTAS,Hora de ofertas — 30% de descuento activo,AllZones,2026-05-21T22:30:13.738449900
+48,HORA_DE_OFERTAS,Hora de ofertas — 30% de descuento activo,AllZones,2026-05-21T22:30:13.785111500
+51,HORA_DE_OFERTAS,Hora de ofertas — 30% de descuento activo,AllZones,2026-05-21T22:30:13.828489800
+66,HORA_DE_OFERTAS,Hora de ofertas — 30% de descuento activo,AllZones,2026-05-21T22:30:14.031030300
+67,HORA_DE_OFERTAS,Hora de ofertas — 30% de descuento activo,AllZones,2026-05-21T22:30:14.044581700
+68,TORMENTA_TORRENCIAL,Tormenta obliga evacuación,All tourists,2026-05-21T22:30:14.058323
+84,TORMENTA_TORRENCIAL,Tormenta obliga evacuación,All tourists,2026-05-21T22:30:14.305701800
+97,HORA_DE_OFERTAS,Hora de ofertas — 30% de descuento activo,AllZones,2026-05-21T22:30:14.487514900
